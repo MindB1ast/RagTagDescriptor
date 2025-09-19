@@ -1,2 +1,6 @@
 .env
 .venv
+test_images
+pages_texts
+chroma_db
+books
